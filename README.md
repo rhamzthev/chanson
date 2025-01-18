@@ -1,6 +1,5 @@
 # Chanson
 Authors:
-- Toula Elwell
 - Rhamsez Thevenin
 
 This will be a social media website centered around music. 
